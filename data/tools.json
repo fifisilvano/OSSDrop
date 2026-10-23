@@ -6,7 +6,12 @@
     "category": "ai-coding-agents",
     "description": "AI pair programming in your terminal; edits files in your local git repo and commits as it goes.",
     "license": "Apache-2.0",
-    "links": [{ "label": "docs", "url": "https://aider.chat/docs/" }],
+    "links": [
+      {
+        "label": "docs",
+        "url": "https://aider.chat/docs/"
+      }
+    ],
     "added": "2026-07-10"
   },
   {
@@ -16,7 +21,12 @@
     "category": "ai-coding-agents",
     "description": "Local-first, event-sourced memory + judgment layer for AI coding agents; warns before repeating a failed fix.",
     "license": "MIT",
-    "links": [{ "label": "paper", "url": "https://arxiv.org/abs/2606.12329" }],
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://arxiv.org/abs/2606.12329"
+      }
+    ],
     "added": "2026-07-10",
     "pinned": true
   },
@@ -72,7 +82,12 @@
     "category": "data-databases",
     "description": "In-process analytical SQL database; runs OLAP queries inside your app or notebook.",
     "license": "MIT",
-    "links": [{ "label": "docs", "url": "https://duckdb.org/docs/" }],
+    "links": [
+      {
+        "label": "docs",
+        "url": "https://duckdb.org/docs/"
+      }
+    ],
     "added": "2026-07-10"
   },
   {
@@ -82,7 +97,12 @@
     "category": "data-databases",
     "description": "Fast, typo-tolerant search engine with a simple API.",
     "license": "MIT (core)",
-    "links": [{ "label": "docs", "url": "https://www.meilisearch.com/docs" }],
+    "links": [
+      {
+        "label": "docs",
+        "url": "https://www.meilisearch.com/docs"
+      }
+    ],
     "added": "2026-07-10"
   },
   {
@@ -110,7 +130,12 @@
     "category": "security-privacy",
     "description": "Cross-platform, offline password manager; community continuation of KeePass.",
     "license": "GPL-2.0/GPL-3.0",
-    "links": [{ "label": "docs", "url": "https://keepassxc.org/docs/" }],
+    "links": [
+      {
+        "label": "docs",
+        "url": "https://keepassxc.org/docs/"
+      }
+    ],
     "added": "2026-07-10"
   },
   {
@@ -120,7 +145,12 @@
     "category": "web-apis",
     "description": "API development environment in the browser: REST, GraphQL, and realtime clients; self-hostable.",
     "license": "MIT",
-    "links": [{ "label": "docs", "url": "https://docs.hoppscotch.io" }],
+    "links": [
+      {
+        "label": "docs",
+        "url": "https://docs.hoppscotch.io"
+      }
+    ],
     "added": "2026-07-10"
   },
   {
@@ -130,7 +160,12 @@
     "category": "web-apis",
     "description": "User-friendly command-line HTTP client with JSON support and syntax highlighting.",
     "license": "BSD-3-Clause",
-    "links": [{ "label": "docs", "url": "https://httpie.io/docs/cli" }],
+    "links": [
+      {
+        "label": "docs",
+        "url": "https://httpie.io/docs/cli"
+      }
+    ],
     "added": "2026-07-10"
   },
   {
@@ -140,7 +175,27 @@
     "category": "creator-media",
     "description": "Free, open-source software for live streaming and screen recording.",
     "license": "GPL-2.0",
-    "links": [{ "label": "docs", "url": "https://docs.obsproject.com" }],
+    "links": [
+      {
+        "label": "docs",
+        "url": "https://docs.obsproject.com"
+      }
+    ],
     "added": "2026-07-10"
+  },
+  {
+    "name": "Flisk",
+    "repo": "flisk-sh/flisk",
+    "homepage": "https://flisk.sh",
+    "category": "devops-self-hosted",
+    "description": "Generate and run your whole tech stack without the setup pain. One command from empty folder to running stack.",
+    "license": "MIT",
+    "links": [
+      {
+        "label": "docs",
+        "url": "https://flisk.sh/docs/quickstart/"
+      }
+    ],
+    "added": "2026-10-23"
   }
 ]
